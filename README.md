@@ -26,7 +26,7 @@ use {"~/code/glow.nvim", run = ":GlowInstall"}
 
 - Pressing `q` will automatically close the window
 - No path arg means glow uses current path in vim
-- `:Glow` command will work as toogle feature, so calling it will open or close the current preview
+- `:Glow` command will work as toggle feature, so calling it will open or close the current preview
 
 You can also create a mapping getting a preview of the current file
 
